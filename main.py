@@ -2,7 +2,7 @@ import random # for the random char generation
 import string #to access the alphabet easily
 import re #for the split regex
 
-mask = "xxxxx-xxxxx-xxxxx" #the mask ( how you want the randomly genorated string to look like)
+mask = "xxxxx-xxxxx-xxxxx" #the mask ( how you want the randomly generated string to look like )
 spliter = "-" # what will seperate the groups
 mask_output = [] #list the mask will append to
 
